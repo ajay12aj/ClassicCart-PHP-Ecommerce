@@ -175,15 +175,11 @@ ClassicCart/
 
 ![User Login](screenshots/user-login.png)
 
-![Shop & Product](screenshots/add-to-cart.png)
-
-![Shopping Cart](screenshots/cart.png)
+![Add to Cart](screenshots/add-to-cart.png)
 
 ![Checkout](screenshots/checkout.png)
 
 ### Admin Panel
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ![Admin Categories](screenshots/admin-categories.png)
 
