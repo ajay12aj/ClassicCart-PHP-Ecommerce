@@ -1,0 +1,26 @@
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# Environment and private configuration
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# PHP Composer dependencies (if added later)
+vendor/
+
+# Database backup files
+*.dump
+*.bak.sql
