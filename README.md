@@ -166,3 +166,25 @@ ClassicCart/
 - **Blank page** – Enable `display_errors` temporarily in `php.ini` to see the error, or check the Apache error log (`C:\xampp\apache\logs\error.log`).
 - **Images not loading** – Make sure `uploads/products/` exists and is writable.
 - **Admin redirects to login** – Log out and log in again; clear browser cookies if needed.
+
+
+
+## 📸 Project Screenshots
+
+### User Panel
+
+![User Login](screenshots/user-login.png)
+
+![Shop & Product](screenshots/add-to-cart.png)
+
+![Shopping Cart](screenshots/cart.png)
+
+![Checkout](screenshots/checkout.png)
+
+### Admin Panel
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+![Admin Categories](screenshots/admin-categories.png)
+
+![Admin Orders](screenshots/admin-orders.png)
